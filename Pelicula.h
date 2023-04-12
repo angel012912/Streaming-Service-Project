@@ -1,3 +1,9 @@
+/*
+Author: Jose Angel Garcia Gomez
+Date: 02-2021
+Description: Definition of the Pelicula classs
+*/
+
 #ifndef PELICULA_H_
 #define PELICULA_H_
 

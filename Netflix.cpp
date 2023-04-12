@@ -1,3 +1,9 @@
+/*
+Author: Jose Angel Garcia Gomez
+Date: 02-2021
+Description: Implementation of the Netflix class methods
+*/
+
 #include <iostream>
 #include <fstream>
 #include <sstream>

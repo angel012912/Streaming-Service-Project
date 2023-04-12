@@ -1,3 +1,9 @@
+/*
+Author: Jose Angel Garcia Gomez
+Date: 02-2021
+Description: Implementation of the Pelicula classs methods
+*/
+
 #include "Pelicula.h"
 #include <iostream>
 #include <sstream>

@@ -1,3 +1,9 @@
+/*
+Author: Jose Angel Garcia Gomez
+Date: 02-2023
+Description: Definition of the Episodio class
+*/
+
 #ifndef EPISODIO_H_
 #define EPISODIO_H_
 

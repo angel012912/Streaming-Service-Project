@@ -1,3 +1,9 @@
+/*
+Author: Jose Angel Garcia Gomez
+Date: 02-2021
+Description: Implementation of the Episodio class methods
+*/
+
 #include "Episodio.h"
 #include <iostream>
 #include <sstream>

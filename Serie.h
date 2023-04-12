@@ -1,3 +1,9 @@
+/*
+Author: Jose Angel Garcia Gomez
+Date: 02-2021
+Description: Definition of the Serie classs
+*/
+
 #ifndef SERIE_H_
 #define SERIE_H_
 

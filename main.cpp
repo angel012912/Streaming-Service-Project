@@ -1,3 +1,9 @@
+/*
+Author: Jose Angel Garcia Gomez
+Date: 02-2023
+Description: Application execution
+*/
+
 #include <iostream>
 #include <fstream>
 #include <sstream>

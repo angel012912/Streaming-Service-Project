@@ -1,3 +1,9 @@
+/*
+Author: Jose Angel Garcia Gomez
+Date: 02-2021
+Description: Definition of the Netflix class
+*/
+
 #ifndef NETFLIX_H_
 #define NETFLIX_H_
 

@@ -1,3 +1,9 @@
+/*
+Author: Jose Angel Garcia Gomez
+Date: 02-2021
+Description: Definition of the Video classs
+*/
+
 #ifndef VIDEO_H_
 #define VIDEO_H_
 

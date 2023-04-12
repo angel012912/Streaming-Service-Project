@@ -1,3 +1,9 @@
+/*
+Author: Jose Angel Garcia Gomez
+Date: 02-2021
+Description: Implementation of the Video classs methods
+*/
+
 #include "Video.h"
 #include <iostream>
 #include <string>
